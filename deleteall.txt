@@ -1,0 +1,4 @@
+{
+    "error": "INVALID_ARGUMENTS: group_name does not exist", 
+    "error_code": 1005
+}
